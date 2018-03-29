@@ -1,1 +1,17 @@
 show list of things to do.
+
+$ grind list
+
+$ grind get 527 or $ grind get CS-2810/cs2810-arm-mandelbrot
+
+$ make clean
+
+$ make run
+
+$ make test
+
+$ grind action test
+
+$ grind save
+
+$ grind grade
