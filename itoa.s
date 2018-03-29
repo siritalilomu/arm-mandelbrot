@@ -29,4 +29,3 @@ itoa:
                 @ return number of bytes written
                 mov	r0, r2
 		        pop	{r4,r5,r6,pc}
-            
